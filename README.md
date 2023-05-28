@@ -76,7 +76,7 @@
    
   ### plots visiualizations
    **Here is a comparison plot showing the relationship between genres and gross incomes:**
-![Comparison Plot](comparison.GENRE.png)
+![Comparison Plot](comparison.GENRES.png)
 
    **Here is a comparison plot showing the relationship between production budget and gross incomes for most populer movies:** 
 ![Comparison Plot](comparison2.BUDGET.png)
